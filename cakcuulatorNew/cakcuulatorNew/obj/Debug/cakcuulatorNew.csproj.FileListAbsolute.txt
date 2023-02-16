@@ -1,0 +1,15 @@
+C:\Users\Денис\source\repos\cakcuulatorNew\cakcuulatorNew\bin\Debug\cakcuulatorNew.exe.config
+C:\Users\Денис\source\repos\cakcuulatorNew\cakcuulatorNew\bin\Debug\cakcuulatorNew.exe
+C:\Users\Денис\source\repos\cakcuulatorNew\cakcuulatorNew\bin\Debug\cakcuulatorNew.pdb
+C:\Users\Денис\source\repos\cakcuulatorNew\cakcuulatorNew\obj\Debug\cakcuulatorNew.csprojAssemblyReference.cache
+C:\Users\Денис\source\repos\cakcuulatorNew\cakcuulatorNew\obj\Debug\MainWindow.g.cs
+C:\Users\Денис\source\repos\cakcuulatorNew\cakcuulatorNew\obj\Debug\App.g.cs
+C:\Users\Денис\source\repos\cakcuulatorNew\cakcuulatorNew\obj\Debug\cakcuulatorNew_MarkupCompile.cache
+C:\Users\Денис\source\repos\cakcuulatorNew\cakcuulatorNew\obj\Debug\cakcuulatorNew_MarkupCompile.lref
+C:\Users\Денис\source\repos\cakcuulatorNew\cakcuulatorNew\obj\Debug\MainWindow.baml
+C:\Users\Денис\source\repos\cakcuulatorNew\cakcuulatorNew\obj\Debug\cakcuulatorNew.g.resources
+C:\Users\Денис\source\repos\cakcuulatorNew\cakcuulatorNew\obj\Debug\cakcuulatorNew.Properties.Resources.resources
+C:\Users\Денис\source\repos\cakcuulatorNew\cakcuulatorNew\obj\Debug\cakcuulatorNew.csproj.GenerateResource.cache
+C:\Users\Денис\source\repos\cakcuulatorNew\cakcuulatorNew\obj\Debug\cakcuulatorNew.csproj.CoreCompileInputs.cache
+C:\Users\Денис\source\repos\cakcuulatorNew\cakcuulatorNew\obj\Debug\cakcuulatorNew.exe
+C:\Users\Денис\source\repos\cakcuulatorNew\cakcuulatorNew\obj\Debug\cakcuulatorNew.pdb
